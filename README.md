@@ -3,7 +3,9 @@
 
 A beautiful, professional weather dashboard built with modern web technologies. This app provides real-time weather data and 5-day forecasts using the OpenWeatherMap API, wrapped in a sleek "Glassmorphism" interface.
 
-![Atmosphere Preview](https://github.com/ymp7/weather-app/raw/main/preview.png) *(Note: Replace this with an actual screenshot once hosted)*
+![Atmosphere Preview]
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d5bbdc4b-2335-42a2-9415-ef6b105b3ed1" />
+
 
 ## ✨ Features
 
